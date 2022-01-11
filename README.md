@@ -4,8 +4,9 @@
 ```
 ML_tutorial
 ├── README.md
-├── ML_tutorial_irisdata,ipyenb # アヤメ分類(適合率・再現率・F1値・ヒートマップ)
-└── ML_tutorial_ayame.ipynb     # アヤメ分類
+├── ML_tutorial_irisdata.ipyenb # アヤメ分類 var.2(適合率・再現率・F1値・ヒートマップ)
+├── ML_tutorial_mnist.ipyenb    # mnist
+└── ML_tutorial_ayame.ipynb     # アヤメ分類 var.1
 ```
 
 ### Reference Material - 参考資料
@@ -13,3 +14,4 @@ ML_tutorial
 [Pandas Seriesについて](https://ai-inter1.com/python-series/) <br>
 [scikit-learnで混同行列を生成、適合率・再現率・F1値などを算出](https://note.nkmk.me/python-sklearn-confusion-matrix-score/) <br>
 [ヒートマップによる可視化](https://schlaf.ltd/programming/python/scikit-learn-confusion-matrix/)
+[Mnist分析](https://toukei-lab.com/mnist)
